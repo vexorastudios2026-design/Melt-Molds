@@ -1,0 +1,7 @@
+{
+  "name": "Melt&Molds",
+  "description": "Exclusive artisanal candles, customized resin gift boxes, and personalized gifts made for special moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
